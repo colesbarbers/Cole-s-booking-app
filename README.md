@@ -1,3 +1,3 @@
-# Cole's Booking App
+# Cole’s Booking App
 
-Built with Next.js
+Live booking system for Cole’s Barbers.
