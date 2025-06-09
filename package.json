@@ -1,15 +1,14 @@
 {
   "name": "coles-booking-app",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "dev": "next dev",
+    "start": "next start",
     "build": "next build",
-    "start": "next start"
+    "dev": "next dev"
   },
   "dependencies": {
-    "next": "13.4.12",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "^13.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
