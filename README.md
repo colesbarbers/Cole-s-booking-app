@@ -1,1 +1,3 @@
-// Placeholder content for README.md
+# Cole's Booking App
+
+Built with Next.js
